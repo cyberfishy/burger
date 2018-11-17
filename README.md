@@ -15,7 +15,7 @@ The demo of the burger eating application can be found [here]().
 
 To run the application locally, first clone this repository with the following command.
 
-	git clone git@github.com:angrbrd/burger.git
+	git clone git@github.com:cyberfishy/burger.git
 	
 Next, install the application dependencies.
 
